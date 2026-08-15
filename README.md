@@ -5,7 +5,6 @@
 **Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
 ## Header
-> Editing this section in the inspector.
 Hi, I'm **ngoc15025**. This README is tuned for **personal brand** with a GitHub visual system.
 <p align="center">
   <picture>
